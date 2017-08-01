@@ -1,18 +1,9 @@
 package com.zmm.widthandheight;
 
-import android.app.ActivityManager;
-import android.content.Context;
 import android.os.Bundle;
-import android.os.Environment;
-import android.os.StatFs;
 import android.support.v7.app.AppCompatActivity;
 import android.util.DisplayMetrics;
 import android.widget.TextView;
-
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
 
 import butterknife.ButterKnife;
 import butterknife.InjectView;
